@@ -6,3 +6,4 @@ Una vez usted entre a la carpeta Modelos estadísticos, encontrará dos carpetas
    
    2. Examenes parciales: cabe destacar que, el segundo examen parcial cubrio los temas de la tarea 2 hasta la 6, mientras que, el tercero cubrió lo realizado en la        tarea 8.
 
+Es importante resaltar que conforme crece el número de tarea, mayores habilidades de programación fueron requeridas para su realización e inclusive algunas pueden considerarse proyectos enteros; esto puede ser corroborado al correr el reporte de cada una de estas tareas el cual se incluye como un documento .tex. 
