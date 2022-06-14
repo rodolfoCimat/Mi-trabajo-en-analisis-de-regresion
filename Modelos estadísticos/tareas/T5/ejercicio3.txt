@@ -1,0 +1,16 @@
+Tienda,NumCasas,Localizacion,Ventas
+1,161,Colonia,157.27
+2,99,Colonia,93.28
+3,135,Colonia,136.81
+4,120,Colonia,123.79
+5,164,Colonia,153.51
+6,221,CentroCom.,241.74
+7,179,CentroCom.,201.54
+8,204,CentroCom.,206.71
+9,214,CentroCom.,229.78
+10,101,CentroCom.,135.22
+11,231,Centro,224.71
+12,206,Centro,195.29
+13,248,Centro,242.16
+14,107,Centro,115.21
+15,205,Centro,197.82
